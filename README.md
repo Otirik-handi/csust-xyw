@@ -19,3 +19,5 @@
 > 登录: `python main.py login`
 >
 > 注销: `python main.py logout`
+> 
+> 查看帮助: `python main.py [command] --help`
