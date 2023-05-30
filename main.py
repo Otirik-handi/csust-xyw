@@ -33,7 +33,7 @@ headers = {
     "Connection": "close"
 }
 
-local_ip = ""
+local_ip = []
 
 
 def choice_ip():
