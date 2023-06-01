@@ -1,10 +1,10 @@
 # 长沙理工大学校园网登录脚本
 
-因为作者电脑连上校园网WIFI后浏览器不会自动进入登录界面，每次手动输入ip地址很麻烦，于是写了这个脚本方便登录/注销校园网。
+一键or自动化登录校园网，从此省去等待浏览器和输入账号密码的烦恼。
 
 **使用前**:
 
-> Windows用户请在**config.ini**里按照提示进行配置
+> 请在**config.ini**里按照提示进行配置
 >
 > 请安装必要的第三库:
 >
@@ -16,8 +16,10 @@
 
 **Linux**:
 
+> 帮助: `python main.py help`
+>
 > 登录: `python main.py login`
 >
 > 注销: `python main.py logout`
-> 
-> 查看帮助: `python main.py [command] --help`
+
+想要实现开机自启，请自行goole。
